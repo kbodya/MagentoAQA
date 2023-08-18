@@ -1,0 +1,9 @@
+{
+  "homePageUrl": "https://code8.magecom.us/",
+  "titleText": "NEW SHADES",
+  "categoryName": "All Makeup",
+  "subCategoryName": "h1",
+  "subscriptionSuccess": "Thank you for your subscription.",
+  "subscriptionFail": "This email address is already subscribed.",
+  "contactUsLink": "#accordion > div.accordion_block.order_mobile_2 > div:nth-child(2) > ul > li:nth-child(1) > a"
+}

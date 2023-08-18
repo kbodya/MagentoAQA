@@ -1,0 +1,10 @@
+{
+    "configurableProductName": "Breathe-Easy Tank",
+    "currency": "$",
+    "outOfStockProductName": "Dash Digital Watch",
+    "outOfStockProductSku": "24-MG02",
+    "outOfStockProductUrl": "/dash-digital-watch.html",
+    "priceRegexp": "\\$\\d+\\.\\d{2}",
+    "productAttributeSelector": ".swatch-attribute-options",
+    "simpleProductName": "Didi Sport Watch"
+}

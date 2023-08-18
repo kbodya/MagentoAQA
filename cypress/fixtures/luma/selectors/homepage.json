@@ -1,0 +1,19 @@
+{
+  "productCard": ".product-items.widget-product-grid .product-item",
+  "searchIcon": "#search_mini_form > .field > .label > span",
+  "searchIconMobile": "#search_mini_form > .field > .label",
+  "mainTitle": ".imw3mao > .mgz-element-inner > h2 > span",
+  "mainHeading": ".base",
+  "headingHome": "ul > li.main-menu__inner-item.main-menu__inner-item--level1.main-menu__inner-item--parent.custom-links-wrapper > ul > li:nth-child(2) > ul > li:nth-child(2) > a",
+  "subscribeToNewsletterField": "#newsletter",
+  "newsletterSubscribeButton": "#newsletter-validate-detail > .actions > .action",
+  "successMessage": ".message-success",
+  "failedMessage": ".message-error",
+  "headerNavCategory": "div.lg\\:block > nav > div:nth-child(2) > span > a[title=\"Women\"]",
+  "headerNavSubCategory": ".left-side.pointer-events-none > .dropdown-desktop",
+  "contactUsName": "input[id='name']",
+  "contactUsEmail": "input[id='email']",
+  "contactUsTel": "input[id='telephone']",
+  "contactUsTextArea": "textarea[id='comment']",
+  "contactUsButton": "button[title='Submit']"
+}
